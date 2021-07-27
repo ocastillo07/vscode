@@ -10,7 +10,13 @@
 */
 
 // Crear un arreglo con los días de la semana
-
+lunes
+martes
+miercoles
+jueves
+viernes
+sabado
+domingo
 
 
 
