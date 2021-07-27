@@ -5,7 +5,7 @@
 
     Tips:
         ⇧ ⌥ ↑ / ↓
-        Ctrl + Alt+ ↑ / ↓
+        Shift + Alt+ ↑ / ↓
 */
 
 const hulk = 'brouce banner';

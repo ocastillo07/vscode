@@ -4,13 +4,10 @@
         Dar el formato deseado
 
     Tips:
-        ⇧ ⌥ ↑ / ↓
-        ⌃ ⇧ U
-        ⌃ ⇧ L
-
-        Ctrl + Alt+ ↑ / ↓
-        Ctrl + Shift + U
-        Ctrl + Shift + L
+        
+        Shift + Alt+ ↑ / ↓
+        Ctrl + K Ctrl + U
+        Ctrl + K Ctrl + L
 
     Pro:
         Mostrar la paleta de comandos
@@ -20,21 +17,21 @@
 
 function capitalizados() {
 
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
+    const hulk       = 'Brouce Banner';
+    const Hawkeye    = 'Cinton Francis';
+    const ironman    = 'Tony Stark';
+    const spiderman  = 'Peter Parker';
+    const viudaNegra = 'Natalia Romanova';
 
 }
 
 function minusculas() {
 
-    const HULK       = 'brouce banner';
-    const HAWKEYE    = 'cinton francis';
-    const IRONMAN    = 'tony stark';
-    const SPIDERMAN  = 'peter parker';
-    const VIUDANEGRA = 'natalia romanova';
+    const hulk       = 'brouce banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
 
 }
 
